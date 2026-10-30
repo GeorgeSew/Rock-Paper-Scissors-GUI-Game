@@ -48,4 +48,4 @@ A desktop graphical user interface (GUI) application for the classic **Rock, Pap
 
 ## 👨‍💻 Author
 
-* Developed by **masin**
+* Developed by **george**
