@@ -8,7 +8,7 @@ import javax.swing.border.Border;
 
 /**
  * Rock Paper Scissors GUI Application using Java Swing inside NetBeans
- * @author masin
+ * @author george
  */
 public class RPS extends javax.swing.JFrame {
     
